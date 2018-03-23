@@ -1,0 +1,54 @@
+body{
+	font-family: "Segoe UI", sans-serif;
+	font-size: 15px;
+	line-height: 1.4;
+	background-color:#7B68EE;
+}
+.everything{
+	width: 90%;
+	margin: 0 auto;
+	background-color: #FFF;
+	color: #000;
+}
+.tabs{
+	background-color: #DC143C;
+	padding: 10px 0 10px;
+
+}
+.tabs ul {
+	list-style: none;
+	text-align: center;
+	
+}
+.tabs ul li{
+	display: inline;
+
+}
+.tabs ul li a:hover{
+	border: 2px solid #fff;
+}
+.tabs ul li a{
+	padding: 10px 10px;
+	color: #fff;
+	text-decoration: none;
+	
+
+}
+
+.courses{
+	float: left;
+	width: 47%
+}
+.content{
+	float: right;
+	width: 50%;
+	border-bottom: 2px solid black;
+}
+.footer{
+	clear: both;
+	background-color: black;
+	color: #fff;
+}
+.table{
+	margin-left: 50%;
+}
